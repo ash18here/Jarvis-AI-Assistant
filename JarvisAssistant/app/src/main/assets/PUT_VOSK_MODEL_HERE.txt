@@ -1,0 +1,6 @@
+Download vosk-model-small-en-us-0.15 from https://alphacephei.com/vosk/models
+Unzip it, rename the folder to  model-en-us  and place it in THIS folder, so you get:
+  app/src/main/assets/model-en-us/am
+  app/src/main/assets/model-en-us/conf
+  app/src/main/assets/model-en-us/graph
+  app/src/main/assets/model-en-us/ivector
